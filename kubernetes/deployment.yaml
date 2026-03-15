@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: mi-api
-        image: usuario/mi-api:latest
+        image: ferbol18/mi-api:latest
         ports:
         - containerPort: 3000
